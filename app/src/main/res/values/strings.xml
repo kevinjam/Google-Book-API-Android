@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BooksGoogle</string>
+    <string name="error_data">Error Loading data from the Google Books APi</string>
+
+    <string name="search">Search</string>
+    <string name="title">Insert Title</string>
+    <string name="author">Insert Author (s)</string>
+    <string name="publisher">Insert Publisher</string>
+    <string name="isbn">Insert ISBN (s)</string>
+    <string name="no_search_found">No Book found</string>
+</resources>
